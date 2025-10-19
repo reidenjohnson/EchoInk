@@ -6,7 +6,7 @@ The app allows users to **add, view, edit, and delete notes** from the console. 
 
 The purpose of writing this software was to **strengthen my understanding of Kotlin syntax, data classes, collections, and program flow** in a real-world, interactive console application.  
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/j46zn0Nm-eE))
+[Software Demo Video](https://youtu.be/j46zn0Nm-eE)
 
 # Development Environment
 
